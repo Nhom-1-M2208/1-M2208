@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+}
+.nav {
+    width: 100%;
+    height: 200px;
+}
+#img{
+    width: 100%;
+    height: 600px;
+    background-image: url("anh/Ảnh chụp Màn hình 2022-09-30 lúc 10.49.59.png");
+    background-size: cover;
+}
+#logo{
+    background: rgba(255, 251, 251, 0.71);
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+#slogan{
+    background-image: url("anh/image_2022_09_30T03_57_38_911Z.png");
+    width: 70%;
+    height: 100%;
+    background-size: cover;
+    float: right;
+}
+#menu{
+    background: grey;
+    height: 30px;
+    color: #efefef;
+    margin: 0px 5px;
+}
+#main_content{
+    background: pink;
+}
+#footer{
+    background: red;
+    height: 150px;
+}
+
+#left_sidebar{
+    float:left;
+    width: 755px;
+    height: 400px;
+    background: rgba(255, 251, 251, 0.71);
+}
+
+#right_sidebar{
+    float:right;
+    width: 755px;
+    height: 400px;
+    background: #e3cdcd;
+}
+#phai{
+    float:right;
+    width: 755px;
+    height: 400px;
+    background-color: green;
+}
+#trai{
+    float:left;
+    width: 755px;
+    height: 400px;
+    background-color: #ae46ef;
+}
+li{
+    display: inline;
+    margin:0px 5px;
+
+}
+a{
+    color: #efefef;
+    text-decoration:none;
+    text-transform: uppercase;
+    text-align: center;
+}
+a:hover,a.on{
+    color: black;
+    background-color: white;
+}
+

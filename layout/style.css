@@ -38,7 +38,7 @@ body {
     background: pink;
 }
 #footer{
-    background: red;
+    background: #50c878;
     height: 150px;
 }
 
@@ -59,13 +59,13 @@ body {
     float:right;
     width: 50%;
     height: 400px;
-    background-color: green;
+    background-color: deepskyblue;
 }
 #trai{
     float:left;
     width: 50%;
     height: 400px;
-    background-color: #ae46ef;
+    background-color: #f2726a;
 }
 li{
     display: inline;
